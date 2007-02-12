@@ -1,5 +1,5 @@
 Summary:	Telugu dictionary for aspell
-Summary(pl.UTF-8):   Słownik telugu dla aspella
+Summary(pl.UTF-8):	Słownik telugu dla aspella
 Name:		aspell-te
 Version:	0.01
 %define	subv	2
