@@ -7,7 +7,7 @@ Release:	1
 Epoch:		1
 License:	GPL v2
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/te/aspell6-te-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/te/aspell6-te-%{version}-%{subv}.tar.bz2
 # Source0-md5:	645f7f7204520552cddbe1c9ae64df2a
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60.0
